@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361124638647",
+    "project_id": "awesome-notification-1c4da",
+    "storage_bucket": "awesome-notification-1c4da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361124638647:android:9cc59edf6987939c964232",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSY9an5gmIXYKmqhdVeT8PmLvCMBZ6Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361124638647:android:ad7c250efdd32462964232",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSY9an5gmIXYKmqhdVeT8PmLvCMBZ6Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
