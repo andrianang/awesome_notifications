@@ -4,7 +4,6 @@ import '../main.dart';
 import '../pages/second_screen_page.dart';
 
 class NotificationService {
-  // Reference to navigate key defined in main.dart
   static GlobalKey<NavigatorState> get navigatorKey => MyApp.navigatorKey;
 
   static Future<void> initializeNotification() async {
